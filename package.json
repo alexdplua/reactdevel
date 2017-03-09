@@ -1,0 +1,23 @@
+{
+  "name": "reactdevel",
+  "version": "1.0.0",
+  "description": "Some code on react js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexdplua/reactdevel.git"
+  },
+  "keywords": [
+    "study",
+    "reactjs"
+  ],
+  "author": "Aleksandr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexdplua/reactdevel/issues"
+  },
+  "homepage": "https://github.com/alexdplua/reactdevel#readme"
+}
